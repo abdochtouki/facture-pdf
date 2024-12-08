@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-pdftest-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-forms-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-layout-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-sign-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-forms-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-io-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-jdk14-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-hyph-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-pdftest-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-font-asian-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-hyph-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-io-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-pdfa-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-kernel-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-barcodes-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-sign-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-layout-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-sign-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-pdftest-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-pdfa-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-kernel-7.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-barcodes-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-font-asian-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-kernel-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-layout-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-pdfa-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-barcodes-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-ext-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-io-7.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/itext7-forms-7.0.0-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
